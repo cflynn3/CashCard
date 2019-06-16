@@ -1,0 +1,18 @@
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\bin\Debug\netcoreapp2.0\CashCard.deps.json
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\bin\Debug\netcoreapp2.0\CashCard.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\bin\Debug\netcoreapp2.0\CashCard.pdb
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.pdb
+C:\GIT\CashCard\CashCard\bin\Debug\netcoreapp2.0\CashCard.deps.json
+C:\GIT\CashCard\CashCard\bin\Debug\netcoreapp2.0\CashCard.dll
+C:\GIT\CashCard\CashCard\bin\Debug\netcoreapp2.0\CashCard.pdb
+C:\GIT\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.csprojResolveAssemblyReference.cache
+C:\GIT\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.csproj.CoreCompileInputs.cache
+C:\GIT\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.AssemblyInfoInputs.cache
+C:\GIT\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.AssemblyInfo.cs
+C:\GIT\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.dll
+C:\GIT\CashCard\CashCard\obj\Debug\netcoreapp2.0\CashCard.pdb

@@ -1,0 +1,34 @@
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.deps.json
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.pdb
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCard.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCard.pdb
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.csproj.CopyComplete
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.dll
+C:\Users\chris\OneDrive\Documents\Visual Studio 2017\Projects\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.pdb
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.deps.json
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.runtimeconfig.json
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.runtimeconfig.dev.json
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.dll
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCardTests.pdb
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCard.dll
+C:\GIT\CashCard\CashCardTests\bin\Debug\netcoreapp2.0\CashCard.pdb
+C:\GIT\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.csprojResolveAssemblyReference.cache
+C:\GIT\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.csproj.CoreCompileInputs.cache
+C:\GIT\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.AssemblyInfoInputs.cache
+C:\GIT\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.AssemblyInfo.cs
+C:\GIT\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.csproj.CopyComplete
+C:\GIT\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.dll
+C:\GIT\CashCard\CashCardTests\obj\Debug\netcoreapp2.0\CashCardTests.pdb
